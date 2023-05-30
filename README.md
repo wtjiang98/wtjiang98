@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there, I'm [Wentao Jiang](https://wtjiang98.github.io/) 👋
+
+I am a third-year PhD student at School of Computer Science and Engineering, Beihang University (BUAA), supervised by Prof. Si Liu. 
+
+I will graduate in 2024. I am actively looking for a job as a computer vision researcher. Email me if you are interested!
 
 <!--
 **wtjiang98/wtjiang98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +18,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
