@@ -1,6 +1,6 @@
 ### Hi there, I'm [Wentao Jiang](https://wtjiang98.github.io/) 👋
 
-I am a fourth-year PhD student at the School of Computer Science and Engineering, Beihang University (BUAA), supervised by Prof. Si Liu. 
+I am currently an algorithm engineer at Alimama, Alibaba Group. I obtained my PhD degree (2019-2024) from the School of Computer Science and Engineering, Beihang University, supervised by Prof. Si Liu. 
 
 <!--
 **wtjiang98/wtjiang98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
